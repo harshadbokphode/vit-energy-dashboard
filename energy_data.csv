@@ -1,0 +1,19 @@
+﻿Department,Block,Floor,Classroom_kWh,Washroom_kWh,Water_kWh,Total_kWh
+Computer,M,Floor 1,40,5,3,48
+Computer,M,Floor 2,42,5,3,50
+Computer,M,Floor 3,45,6,3,54
+IT,E,Floor 1,38,5,3,46
+IT,E,Floor 2,40,5,3,48
+IT,E,Floor 3,42,6,3,51
+ECS,F,Floor 1,41,5,3,49
+ECS,F,Floor 2,43,5,3,51
+ECS,F,Floor 3,45,6,3,54
+EXTC,M,Floor 4,44,6,3,53
+EXTC,M,Floor 5,46,6,3,55
+EXTC,M,Floor 6,48,6,3,57
+Biomedical,B,Floor 1,39,5,3,47
+Biomedical,B,Floor 2,41,5,3,49
+Biomedical,B,Floor 3,43,6,3,52
+First Year,D,Floor 1,45,6,3,54
+First Year,D,Floor 2,47,6,3,56
+First Year,D,Floor 3,50,6,3,59
