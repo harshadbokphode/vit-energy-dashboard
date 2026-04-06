@@ -115,3 +115,38 @@ with st.container():
 
 # ---------------- FOOTER ----------------
 st.success("Dashboard UI optimized and running successfully ✅")
+
+st.divider()
+
+# ---------------- SMART ENERGY SOLUTIONS ----------------
+st.header("💡 Smart Energy Solutions")
+
+solutions_col1, solutions_col2, solutions_col3 = st.columns(3)
+
+with solutions_col1:
+    st.subheader("🔆 Smart Lighting Systems")
+    st.write("Use LED lights and motion sensors to reduce electricity usage.")
+
+with solutions_col2:
+    st.subheader("☀️ Solar Energy Integration")
+    st.write("Install rooftop solar panels to offset campus energy demand.")
+
+with solutions_col3:
+    st.subheader("🤖 AI-Based Energy Optimization")
+    st.write("Analyze energy data to predict peak loads and improve efficiency.")
+
+st.divider()
+
+solutions_col4, solutions_col5, solutions_col6 = st.columns(3)
+
+with solutions_col4:
+    st.subheader("❄️ Smart HVAC Control")
+    st.write("Automated temperature control based on occupancy.")
+
+with solutions_col5:
+    st.subheader("🚨 Real-Time Energy Alerts")
+    st.write("Notify administrators when energy consumption exceeds limits.")
+
+with solutions_col6:
+    st.subheader("📊 Department Energy Benchmarking")
+    st.write("Compare department-wise usage to identify high consumption areas.")
